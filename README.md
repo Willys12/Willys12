@@ -1,4 +1,4 @@
-# Hi devs, I'm Ben Here! 👋  
+# Hi devs, It's Ben Here! 👋  
 
 🎨 **Front-End Developer | Technical Writer | Multimedia Designer**  
 
